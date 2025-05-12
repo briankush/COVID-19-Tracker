@@ -31,4 +31,4 @@ This project analyzes and visualizes COVID-19 data for selected countries (Unite
 5. The script will load the data, perform analysis, and display various plots and a choropleth map.
 
 ## Insights and Reflections
-This project demonstrates how data cleaning and visualization can provide meaningful insights into the COVID-19 pandemic. The use of multiple visualization libraries allows for both static and interactive representations, enhancing understanding of the data. Future improvements could include expanding the list of countries, adding more metrics, and improving the interactivity of the visualizations.
+This project demonstrates how data cleaning and visualization can provide meaningful insights into the COVID-19 pandemic and many other projects. The use of multiple visualization libraries allows for both static and interactive representations, enhancing understanding of the data. 
